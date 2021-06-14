@@ -1,0 +1,14 @@
+/* Required height of parents of the Half Page Carousel for proper displaying carousel itself */
+body{
+    background-color: rgb(18, 147, 151);
+}
+
+.card-title{
+    color: brown;
+    font-weight: 900;
+}
+.card-text{
+    color: green;
+    font-weight: 800;
+}
+
