@@ -1,2 +1,2 @@
 # EstoreProject
-My first eStore project
+My first eStore project.
